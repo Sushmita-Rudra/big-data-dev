@@ -13,4 +13,6 @@ I am hoping to build a career in Web development. As I have a previous work expe
 You can connect with me via LinkedIn by clicking on link:
 https://www.linkedin.com/in/sushmita-rudra-15774a13b/ 
 
+Here's a picture of me,
+
 ![Image](IMG_2139_Original.jpg)
